@@ -118,14 +118,3 @@ while n2 > 0:
     n2 = n2 - 1
 print(x)
 #########################
-
-
-n1 = int(input("Digite o primeiro número: "))
-n2 = int(input("Digite o segundo número: "))
-
-x = 0
-while n2 > 0:
-    x = x - n1
-    n2 = n2 - 1
-print(x)
-#########################
