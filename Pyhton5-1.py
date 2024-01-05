@@ -10,7 +10,7 @@ print("quociente",w)
 print("resto", x)
 
 ############################
-
+#5.10
 pontos = 0
 questão = 1
 while questão <=3:

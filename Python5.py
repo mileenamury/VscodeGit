@@ -108,7 +108,7 @@ while c <= w:
  print(n * c)
  c = c + 1
 ###################
-
+#5.8
 n1 = int(input("Digite o primeiro número: "))
 n2 = int(input("Digite o segundo número: "))
 
